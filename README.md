@@ -10,7 +10,7 @@ The game allows players to choose between Rock, Paper, or Scissors, and then com
 - Scissors beats Paper
 - Paper beats Rock
 
-## Screenshots
+## Screenshot:
 
 ![Screenshot (289)](https://github.com/SubediBinod/JavaSwingRockPaperScissors/assets/105643264/cfa7bcb3-6ed0-4a95-a543-c3cb8f3e9460)
 *Game Interface*
